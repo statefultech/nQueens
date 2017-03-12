@@ -7,8 +7,9 @@
 *.zip
 
 *.log
+*.xml
 
-
+.idea/*.xml
 
 .DS_Store
 .DS_Store?
